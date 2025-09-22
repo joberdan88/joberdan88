@@ -30,23 +30,6 @@ I have over 14 years of experience at Banco do Brasil, building and maintaining 
 
 ---
 
-###  Estatísticas do GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joberdan88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joberdan88&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-###  Gráfico de Contribuições
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joberdan88&theme=dracula" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=joberdan88&theme=dracula" />
-</div>
-
----
-
 ##  Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-oberdan-fullstack-datascience/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joberdan88)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonasoberdan@gmail.com)  
