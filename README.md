@@ -30,19 +30,19 @@ I have over 14 years of experience at Banco do Brasil, building and maintaining 
 
 ---
 
-### ⭐ Estatísticas do GitHub
+###  Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME-AQUI&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joberdan88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joberdan88&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### 📊 Gráfico de Contribuições
+###  Gráfico de Contribuições
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USERNAME-AQUI&theme=dracula" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joberdan88&theme=dracula" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU-USERNAME-AQUI&theme=dracula" />
+  <img src="https://komarev.com/ghpvc/?username=joberdan88&theme=dracula" />
 </div>
 
 ---
