@@ -1,6 +1,6 @@
 #  Hi, I'm Jonas Oberdan  
 
- **Senior Full Stack Developer** |  **Data Science Enthusiast** |  **Financial Systems Specialist**  
+ **Senior Full Stack Developer** |  **Data Science** |  **Financial Systems Specialist**  
 
 I have over 14 years of experience at Banco do Brasil, building and maintaining enterprise applications in the financial sector. My expertise combines **full stack development**, **data-driven decision-making**, and **automation of financial systems**.  
 
@@ -27,6 +27,23 @@ I have over 14 years of experience at Banco do Brasil, building and maintaining 
 - [C#-POO-Music Project](https://github.com/joberdan88/poo-csharp) → Working with Object-Oriented Programming with C# - Building Applications  
 - [Python-Unit Test-TDD](https://github.com/joberdan88/Testes-unitario-e-TDD-) → Unit Testing and TDD with Python
 - [Python-Data Science](https://github.com/joberdan88/Regressao_precos_imoveis_Colab) → Regression model with decision tree and tests
+
+---
+
+### ⭐ Estatísticas do GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME-AQUI&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+### 📊 Gráfico de Contribuições
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USERNAME-AQUI&theme=dracula" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU-USERNAME-AQUI&theme=dracula" />
+</div>
 
 ---
 
