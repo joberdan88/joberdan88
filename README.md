@@ -2,7 +2,7 @@
 
  **Senior Full Stack Developer** |  **Data Science**  
 
-I have over 14 years of experience at Banco do Brasil (Bank of Brazil Co.), building and maintaining enterprise applications in the financial sector. My expertise combines **full stack development**, **data-driven decision-making**, and **automation of financial systems**.  
+I have over 14 years of experience at Banco do Brasil (Bank of Brazil Co.), building and maintaining enterprise applications. My expertise combines **full stack development**, **data-driven decision-making**, and **automation systems**.  
 
  I enjoy creating scalable applications, integrating APIs, and leveraging cloud solutions to deliver real impact.  
 
